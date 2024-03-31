@@ -1,0 +1,6 @@
+package physicalSysSim;
+
+public enum SimCmdCodes {
+	OPEN_INVALVE,CLOSE_INVALVE, OPEN_OUTVALVE, 
+	CLOSE_OUTVALVE, MIXER_ON, MIXER_OFF,HEATER_ON, HEATER_OFF;
+}

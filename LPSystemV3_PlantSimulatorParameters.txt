@@ -1,0 +1,7 @@
+LPSystem V3.0 - PlantSimulator Parameters
+LiqueurTypeA_Quantity,3
+LiqueurTypeB_Quantity,2
+fillingTimes,50,70,70,50
+pouringTimes,50,70,70,50
+HeatingTimes,0,1000,0,2000
+MixingTimes,0,0,1000,1500
